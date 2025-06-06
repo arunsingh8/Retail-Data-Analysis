@@ -30,7 +30,7 @@ This project focuses on analyzing online retail transactions to uncover actionab
 
 ## 📷 Dashboard Preview & Link
 ![Image](https://github.com/user-attachments/assets/78c03765-a21a-4a5d-b2e6-ced8f3abffbe)
-
+Dashboard Link ↓
 https://1drv.ms/x/s!AgafmXUiAOEGgtpxwcNiDv_pJZF2NA?e=VM1rMA
 
 ## Dataset Link {Kaggle}
